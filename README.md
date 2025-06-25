@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Nwuizu Oluchukwu Godwin, a Passionate and detail-oriented Frontend Developer with a strong background in building responsive, user-friendly web applications;
-Experienced in ReactJs, JavaScript, HTML, CSS, Javascript, Typescript, Nextjs.
+Experienced in ReactJs, NextJs, JavaScript, HTML, CSS, Javascript, Typescript, Supabase.
 My field of Interest's are building new  Web Technologies and Products.
 One of my greatest skills is listening to clients and being able to give desired and satisfying results.Passionate about staying up-to-date with the latest technologies and implementing best practices for performance and accessibility.
 
